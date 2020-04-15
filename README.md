@@ -5,6 +5,6 @@ In clients folder
 run `npm install`
 then `npm start`
 
-For congiguring database , goto server.js and enter your MondoDB atlas cluster string , by default it is connected to my account.
+For configuring database , goto server.js and enter your MondoDB atlas cluster string , by default it is connected to my account.
 
 React frontend works on localhost:3000
